@@ -1,0 +1,22 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    height: 900px;
+    border: solid black 2px;
+    background-color: lightblue;
+    margin: 20px;
+     background-color: lightgreen;
+  }
+  img {
+    width: 15%;
+    height: 160px;
+    border-radius: 30px;
+    padding: 9px;
+ 
+  }
+  body {
+    background-color: grey;
+    color: white;
+    font-size: 30px;
+  }
