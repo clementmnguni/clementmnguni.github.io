@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
       cardsChosenId = []
       resultDisplay.textContent = score +((cardsWon.length+1)-cardslost.length)
       if  (cardsWon.length === cardArray.length/2) {
-        resultDisplay.textContent = 'Congratulations Nkosie! You found them all!'
+        resultDisplay.textContent = 'Congratulations! You found them all!'
       }
     }
   
